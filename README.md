@@ -12,5 +12,7 @@ tkinter로 클라이언트간의 통신 프로그램을 만들어보았습니다
 ~~"신동엽"씨와 통신 성공^_^~~
 
 예시 이미지)
-<br/>
+`<br/>`
 ![스크린샷 2025-02-26 193412](https://github.com/user-attachments/assets/77e3f770-43db-400e-9172-506a8ca3516e)
+
++) 로컬로 clone 후에 코드 수정 후 push/commit 업데이트 테스트입니다
